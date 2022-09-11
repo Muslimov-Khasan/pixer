@@ -1,0 +1,44 @@
+.container{
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+}
+
+.logo {
+    margin-top: 14px;
+}
+
+.nav__list{
+    display: flex;
+    list-style-type: none;
+}
+
+.nav__item {
+    margin-left: 11px;
+}
+
+.nav__link {
+    text-decoration: none;
+    color: #000;
+}
+
+.telephone {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #00bafc;
+}
+
+.telphone {
+    margin-left: 22px;
+}
